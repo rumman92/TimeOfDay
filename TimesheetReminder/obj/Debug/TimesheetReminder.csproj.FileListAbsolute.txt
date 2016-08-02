@@ -1,0 +1,9 @@
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\bin\Debug\TimesheetReminder.exe.config
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\bin\Debug\TimesheetReminder.exe
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\bin\Debug\TimesheetReminder.pdb
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.csprojResolveAssemblyReference.cache
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.Form1.resources
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.Properties.Resources.resources
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.csproj.GenerateResource.Cache
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.exe
+c:\users\rumman\documents\visual studio 2012\Projects\TimesheetReminder\obj\Debug\TimesheetReminder.pdb
